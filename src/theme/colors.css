@@ -1,0 +1,23 @@
+:root {
+  --ion-color-new: #a666b7;
+  --ion-color-new-rgb: 166, 102, 183;
+  --ion-color-new-contrast: #ffffff;
+  --ion-color-new-contrast-rgb: 0, 0, 0;
+  --ion-color-new-shade: #925aa1;
+  --ion-color-new-tint: #af75be;
+  --ion-color-head: #3d8694;
+  --ion-color-head-rgb: 61, 134, 148;
+  --ion-color-head-contrast: #ffffff;
+  --ion-color-head-contrast-rgb: 255, 255, 255;
+  --ion-color-head-shade: #367682;
+  --ion-color-head-tint: #50929f;
+}
+
+.ion-color-new {
+  --ion-color-base: var(--ion-color-new);
+  --ion-color-base-rgb: var(--ion-color-new-rgb);
+  --ion-color-contrast: var(--ion-color-new-contrast);
+  --ion-color-contrast-rgb: var(--ion-color-new-contrast-rgb);
+  --ion-color-shade: var(--ion-color-new-shade);
+  --ion-color-tint: var(--ion-color-new-tint);
+}
